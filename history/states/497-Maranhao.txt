@@ -3,7 +3,9 @@ state={
 	id=497
 	name="STATE_497"
 	resources={
-		rubber=40.000
+		rubber=5.000
+		aluminium=10.000
+		chromium=22.000
 	}
 
 	history={
@@ -28,8 +30,8 @@ state={
 	provinces={
 		2150 5220 12913 12933 12947 
 	}
-	manpower=2950100
+	manpower= 1835169
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 	local_supplies=0.000
 }

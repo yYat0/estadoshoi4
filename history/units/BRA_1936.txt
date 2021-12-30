@@ -116,7 +116,7 @@ units = {
 
 air_wings = {
 	### Aviação Militar -- Rio de Janiero
-	501 = {
+	500 = {
 		# Fighter Air Group -- Boeing 256s
 		fighter_equipment_0 =  {
 			owner = "BRA" 
